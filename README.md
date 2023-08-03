@@ -14,9 +14,6 @@ Projeto de perfil com links de redes e portfólio desenvolvido para desafio fina
 ![Captura de tela 2023-08-03 105444](https://github.com/jrath29/site-dev-links/assets/108674777/457145ae-d6ab-4f7a-85c5-6d03d16e17c3)
 
 <p><Strong>Link do GitHub Pages:</Strong></p> 
-<div>
-  <a href="https://jrath29.github.io/site-dev-links/" target="_blank">https://jrath29.github.io/site-dev-links/</a>
-</div>
 <a href="https://jrath29.github.io/site-dev-links/" target="_blank">https://jrath29.github.io/site-dev-links/</a>
 
 ## 🚀 Tecnologias
