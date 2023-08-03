@@ -14,6 +14,7 @@ Projeto de perfil com links de redes e portfólio desenvolvido para desafio fina
 
 <p><Strong>Link do GitHub Pages:</Strong></p> 
 <a href="https://jrath29.github.io/site-dev-links/" target="_blank">https://jrath29.github.io/site-dev-links/</a>
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
 
 ## 🚀 Tecnologias
 <ul>
